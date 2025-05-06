@@ -1,0 +1,12 @@
+bin/
+obj/
+
+.nuget/
+*.nupkg
+packages/
+
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
